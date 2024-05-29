@@ -3,7 +3,7 @@ This documentation is for Elijah UI PC Credit To Me
 
 ## Booting the Elijah UI PC Library
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/zxciaz/VenyxUI/main/Reuploaded"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ElijahGamingRBLX/Elijah-UI-PC/main/library.lua"))()
 ```
 
 
